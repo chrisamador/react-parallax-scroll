@@ -1,0 +1,33 @@
+{
+  "name": "react-parallax",
+  "version": "0.0.1",
+  "description": "A simple but power React component that introduces easy and smooth parallax scrolling to any part of your website.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisamador/react-parallax-scroll.git"
+  },
+  "keywords": [
+    "react",
+    "scroll",
+    "inview",
+    "reveal",
+    "fadein",
+    "scrollmonitor"
+  ],
+  "author": "Chris Amador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisamador/react-parallax-scroll/issues"
+  },
+  "homepage": "https://github.com/chrisamador/react-parallax-scroll#readme",
+  "dependencies": {
+    "intersection-observer": "^0.5.0",
+    "lodash.throttle": "^4.1.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1"
+  }
+}
